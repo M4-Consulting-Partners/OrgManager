@@ -7,7 +7,7 @@ OrgChart is an Admidio plugin for managing Organisations.
 
 ### Organisationsliste
 
-Anzeige einer Liste aller in der Admidio Datenbank angelegten Organisationen. Derzeit ist hier die Möglichkeit verankert ein Bild für die Organisation hochzuladen. Die Abspeicherung erfolgt ...
+Anzeige einer Liste aller in der Admidio Datenbank angelegten Organisationen. Derzeit ist hier die Möglichkeit verankert ein Bild für die Organisation hochzuladen. Die Abspeicherung erfolgt im Filesystem. Hieraus ergibt sich noch das Problem, dass es bei jeder Organisation zu hinterlegen ist. Hier soll noch auf die Datenbank gewechselt werden. Hierzu müssen aber mehr daten vorhanden sein, also Organisationsfelder anlegbar und Pflegbar sein.
 
 ### Eigene Organisation
 
